@@ -1,0 +1,9 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="LINE_SEPARATOR" value="&#10;" />
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+    </TypeScriptCodeStyleSettings>
+  </code_scheme>
+</component>
